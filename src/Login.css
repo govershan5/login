@@ -1,0 +1,18 @@
+.Email{
+    width: 100px;
+    height: max-content;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.Signup{
+    background-color: aquamarine;
+    width: 300px;
+    height: 400px;
+}
+.pass{
+    width: 100px;
+    height: max-content;
+    margin-top: 70px;
+}
+#email{
+}
